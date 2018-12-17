@@ -1,71 +1,446 @@
-
-
-
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1262
+#EXTM3U
+#EXTINF:-1,|DE|Sky_Action
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4163
+#EXTINF:-1,|DE|Sky_ARTS_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4162
+#EXTINF:-1,|DE|Sky_Atlantic
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4161
+#EXTINF:-1,|DE|Sky_Bundesliga_1
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4160
+#EXTINF:-1,|DE|Sky_Cinama
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4159
+#EXTINF:-1,|DE|Sky_Cinema_1
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4158
+#EXTINF:-1,|DE|Sky_Cinema_24
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4157
+#EXTINF:-1,|DE|Sky_Cinema_Family
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4156
+#EXTINF:-1,|DE|Sky_Cinema_Hits
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4155
+#EXTINF:-1,|DE|Sky_Cinema_Nostalgie
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4154
+#EXTINF:-1,|DE|Sky_Comedy
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4153
+#EXTINF:-1,|DE|Sky_Emotion
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4152
+#EXTINF:-1,|DE|Sky_Krimi
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4151
+#EXTINF:-1,|DE|Sky_Sport_1_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4150
+#EXTINF:-1,|DE|Sky_SPort_1_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4149
+#EXTINF:-1,|DE|Sky_Sport_2_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4148
+#EXTINF:-1,|DE|SKY_SPORT_2_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4147
+#EXTINF:-1,|DE|Sky_Sport_News
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4146
+#EXTINF:-1,|DE|Spiegel_Geschichte#EXTINF:-1,DE: ORF 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35902
 #EXTINF:-1,DE: ORF 2 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1263
-#EXTINF:-1,DE: Phoenix
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3924
-#EXTINF:-1,DE: PRO 7 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2396
-#EXTINF:-1,DE: PRO 7 MAXX
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2395
-#EXTINF:-1,DE: PRO MAX 7
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1866
-#EXTINF:-1,DE: PRO SIEBEN
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4207
-#EXTINF:-1,DE: ProSieben Max
+http://server.internext.tv:8080/gaurav/gaurav123/35803
+#EXTINF:-1,DE: ORF 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35802
+#EXTINF:-1,DE: ORF Sport   HD
+http://server.internext.tv:8080/gaurav/gaurav123/35862
+#EXTINF:-1,DE: Pro 7
+http://server.internext.tv:8080/gaurav/gaurav123/35801
+#EXTINF:-1,DE: Pro 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35800
+#EXTINF:-1,DE: Pro 7 Maxx
+http://server.internext.tv:8080/gaurav/gaurav123/35799
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://server.internext.tv:8080/gaurav/gaurav123/35798
+#EXTINF:-1,DE: Pro7 Fun HD
+http://server.internext.tv:8080/gaurav/gaurav123/35797
+#EXTINF:-1,DE: Romance TV HD
+http://server.internext.tv:8080/gaurav/gaurav123/35796
 
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2380
-#EXTINF:-1,DE: Sky  Action
+#EXTINF:-1,DE: Sky 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35779
+#EXTINF:-1,DE: Sky Arts HD
+http://server.internext.tv:8080/gaurav/gaurav123/35778
+#EXTINF:-1,DE: Sky Atlantic
+http://server.internext.tv:8080/gaurav/gaurav123/35777
+#EXTINF:-1,DE: Sky Atlantic HD
+http://server.internext.tv:8080/gaurav/gaurav123/35775
+#EXTINF:-1,DE: Sky Cinema
+http://server.internext.tv:8080/gaurav/gaurav123/35774
+#EXTINF:-1,DE: Sky Cinema  1
+http://server.internext.tv:8080/gaurav/gaurav123/35898
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35897
+#EXTINF:-1,DE: Sky Cinema  24
+http://server.internext.tv:8080/gaurav/gaurav123/35896
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35895
+#EXTINF:-1,DE: Sky Cinema Action
+http://server.internext.tv:8080/gaurav/gaurav123/35894
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://server.internext.tv:8080/gaurav/gaurav123/35893
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://server.internext.tv:8080/gaurav/gaurav123/35892
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://server.internext.tv:8080/gaurav/gaurav123/35891
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://server.internext.tv:8080/gaurav/gaurav123/35890
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://server.internext.tv:8080/gaurav/gaurav123/35889
+#EXTINF:-1,DE: Sky Cinema HD
+http://server.internext.tv:8080/gaurav/gaurav123/35888
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://server.internext.tv:8080/gaurav/gaurav123/35886
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://server.internext.tv:8080/gaurav/gaurav123/35885
+#EXTINF:-1,DE: Sky Krimi
+http://server.internext.tv:8080/gaurav/gaurav123/35884
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35861
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35859
+#EXTINF:-1,DE: Sky Sport 2
+http://server.internext.tv:8080/gaurav/gaurav123/35858
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35857
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35856
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35855
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35854
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35853
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35852
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35851
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35850
+#EXTINF:-1,DE: Sky Sport Austria
+http://server.internext.tv:8080/gaurav/gaurav123/35849
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35848
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://server.internext.tv:8080/gaurav/gaurav123/35847
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35846
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35845
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
+http://server.internext.tv:8080/gaurav/gaurav123/35844
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35843
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
+http://server.internext.tv:8080/gaurav/gaurav123/35842
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35841
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD
+http://server.internext.tv:8080/gaurav/gaurav123/35840
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35839
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD
+http://server.internext.tv:8080/gaurav/gaurav123/35838
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35837
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35836
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35835
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://server.internext.tv:8080/gaurav/gaurav123/35834
+#EXTINF:-1,DE: Sky Sport News HD
+http://server.internext.tv:8080/gaurav/gaurav123/35833
+#EXTINF:-1,DE: Sonnenklar TV HD
+http://server.internext.tv:8080/gaurav/gaurav123/35883
+#EXTINF:-1,DE: Sony HD
+http://server.internext.tv:8080/gaurav/gaurav123/35882
+#EXTINF:-1,DE: SPORT 1 + HD
+http://server.internext.tv:8080/gaurav/gaurav123/35832
+#EXTINF:-1,DE: SPORT 1 US HD
+http://server.internext.tv:8080/gaurav/gaurav123/35830
+#EXTINF:-1,DE: Sportdigital HD
 
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5643
-#EXTINF:-1,DE: SRF_1
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2778
-#EXTINF:-1,DE: SRF_2
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://server.internext.tv:8080/gaurav/gaurav123/37983
+#EXTINF:-1,DE: DAZN 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/37986
+#EXTINF:-1,DE: DAZN 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/37984
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://server.internext.tv:8080/gaurav/gaurav123/37985
 
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2782
-#EXTINF:-1,DE: TNT FILM HD
+#EXTINF:-1,DE: RTL
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/663.m3u8
+#EXTINF:-1,DE: RTL 2 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/664.m3u8
+#EXTINF:-1,DE: RTL Crime
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/665.m3u8
+#EXTINF:-1,DE: RTL HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/666.m3u8
+#EXTINF:-1,DE: RTL Nitro
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/667.m3u8
+#EXTINF:-1,DE: RTL Passion HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/668.m3u8
+#EXTINF:-1,DE: ORF 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/669.m3u8
+#EXTINF:-1,DE: ORF 2 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/670.m3u8
+#EXTINF:-1,DE: SRF 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/671.m3u8
+#EXTINF:-1,DE: SRF 2 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/672.m3u8
+#EXTINF:-1,DE: Fox HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/673.m3u8
+#EXTINF:-1,DE: ZDF HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/674.m3u8
+#EXTINF:-1,DE: VOX HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/675.m3u8
+#EXTINF:-1,DE: Sat 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/676.m3u8
+#EXTINF:-1,DE: Arte
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/677.m3u8
+#EXTINF:-1,DE: AXN HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/678.m3u8
+#EXTINF:-1,DE: ARD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/679.m3u8
+#EXTINF:-1,DE: Tele Zueri
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/680.m3u8
+#EXTINF:-1,DE: Super RTL HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/681.m3u8
+#EXTINF:-1,DE: Kabel 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/682.m3u8
+#EXTINF:-1,DE: KIKA
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/684.m3u8
+#EXTINF:-1,DE: Leipzig TV
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/685.m3u8
+#EXTINF:-1,DE: Filstalwelle
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/683.m3u8
+#EXTINF:-1,DE: Das Erste HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/686.m3u8
+#EXTINF:-1,DE: DMAX HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/687.m3u8
+#EXTINF:-1,DE: M
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/688.m3u8
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/689.m3u8
+#EXTINF:-1,DE: Pro 7
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/690.m3u8
+#EXTINF:-1,DE: Austria 24 TV
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/691.m3u8
+#EXTINF:-1,DE: N24 News
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/692.m3u8
+#EXTINF:-1,DE: Sky Nat Geo Wild HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/693.m3u8
+#EXTINF:-1,DE: Sky National Geographic
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/694.m3u8
+#EXTINF:-1,DE: Sky Nostalgie
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/695.m3u8
+#EXTINF:-1,DE: Sky Discovery HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/696.m3u8
+#EXTINF:-1,DE: Disney Channel
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/697.m3u8
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/698.m3u8
+#EXTINF:-1,DE: Nickelodeon Austria
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/699.m3u8
+#EXTINF:-1,•●★--- CINEMA DE ----★●•
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/700.m3u8
+#EXTINF:-1,DE: Sky Cinema
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/701.m3u8
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/702.m3u8
+#EXTINF:-1,DE: Sky Cinema 24
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/703.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/704.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/705.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/706.m3u8
+#EXTINF:-1,DE: Sky Action
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/707.m3u8
+#EXTINF:-1,DE: Sky History
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/708.m3u8
+#EXTINF:-1,DE: Sky Hits
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/709.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/710.m3u8
+#EXTINF:-1,DE: TNT Serie
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/711.m3u8
+#EXTINF:-1,DE: TNT Film
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/712.m3u8
+#EXTINF:-1,DE: Sky SyFy
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/713.m3u8
+#EXTINF:-1,DE: 13th Street
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/714.m3u8
+#EXTINF:-1,DE: MGM
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/715.m3u8
+#EXTINF:-1,DE: Sky Select 1
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/716.m3u8
+#EXTINF:-1,DE: Sky Select 2
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/717.m3u8
+#EXTINF:-1,DE: Sky Select 3
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/718.m3u8
+#EXTINF:-1,DE: Sky Select 4
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/719.m3u8
+#EXTINF:-1,•●★--- SKY SPORT ----★●•
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/720.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/721.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 2 (Matchtime)
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/722.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 3 (Matchtime)
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/723.m3u8
+#EXTINF:-1,DE: Sky Sport News HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/724.m3u8
+#EXTINF:-1,DE: Sky Sport Austria
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/725.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/726.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/727.m3u8
+#EXTINF:-1,DE: Sport Digital HD
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/728.m3u8
+#EXTINF:-1,DE: Euro Sport 1
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/729.m3u8
+#EXTINF:-1,DE: Sport Time TV 1
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/730.m3u8
+#EXTINF:-1,DE: Sport Time TV 2
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/731.m3u8
+#EXTINF:-1,DE: Sky Spiegel Geschichte
+http://francebsatfullhd.dyndns.tv:8000/live/mazz20252GB6d/x4KbB8aXHE/732.m3u8
 
-
-)
-
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19956
-#EXTINF:-1,DE| MTV GERMANY
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20084
-#EXTINF:-1,DE| MTV HD
-
-
-
-
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20125
-#EXTINF:-1,DE| SKY CINEMA  1 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20117
-#EXTINF:-1,DE| SKY CINEMA  24 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20116
-#EXTINF:-1,DE| SKY CINEMA Action HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20124
-#EXTINF:-1,DE| SKY CINEMA COMEDY HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20123
-#EXTINF:-1,DE| SKY CINEMA EMOTION HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20122
-#EXTINF:-1,DE| SKY CINEMA FAMILY HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20121
-#EXTINF:-1,DE| SKY CINEMA HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20120
-#EXTINF:-1,DE| SKY CINEMA HITS HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20119
-#EXTINF:-1,DE| SKY CINEMA NOSTALGIE HD
-
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20033
-#EXTINF:-1,DE| TLC
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/20090
-#EXTINF:-1,DE| TLC HD
-
-
-
-
-
-
-
-
+#EXTINF:-1,DE-SAT.1
+http://2111.space:25461/live/admin_184374/O8zkriFl/4832.m3u8
+#EXTINF:-1,DE-SAT.1 Gold
+http://2111.space:25461/live/admin_184374/O8zkriFl/4831.m3u8
+#EXTINF:-1,DE-SIXX
+http://2111.space:25461/live/admin_184374/O8zkriFl/4830.m3u8
+#EXTINF:-1,DE-Sky Cinema 
+http://2111.space:25461/live/admin_184374/O8zkriFl/4829.m3u8
+#EXTINF:-1,DE-Sky Cinema Comedy
+http://2111.space:25461/live/admin_184374/O8zkriFl/4828.m3u8
+#EXTINF:-1,DE-Sky Cinema Emotion
+http://2111.space:25461/live/admin_184374/O8zkriFl/4827.m3u8
+#EXTINF:-1,DE-Sky Cinema Family
+http://2111.space:25461/live/admin_184374/O8zkriFl/4826.m3u8
+#EXTINF:-1,DE-Sky Cinema Hits
+http://2111.space:25461/live/admin_184374/O8zkriFl/4825.m3u8
+#EXTINF:-1,DE-Sky Cinema Nostalgie
+http://2111.space:25461/live/admin_184374/O8zkriFl/4824.m3u8
+#EXTINF:-1,LO-DE: SKY CINEMA  1 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2587
+#EXTINF:-1,LO-DE: SKY CINEMA  1
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2588
+#EXTINF:-1,LO-DE: SKY CINEMA
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2590
+#EXTINF:-1,LO-DE: SKY CINEMA  24 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2585
+#EXTINF:-1,LO-DE: SKY CINEMA  24
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2586
+#EXTINF:-1,LO-DE: SKY CINEMA ACTION HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2583
+#EXTINF:-1,LO-DE: SKY CINEMA ACTION
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2584
+#EXTINF:-1,LO-DE: SKY ATLANTIC HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2591
+#EXTINF:-1,LO-DE: SKY ATLANTIC
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2592
+#EXTINF:-1,LO-DE: SKY CINEMA ANIMATION HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2580
+#EXTINF:-1,LO-DE: SKY CINEMA COMEDY
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2582
+#EXTINF:-1,LO-DE: SKY CINEMA EMOTION
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2577
+#EXTINF:-1,LO-DE: SKY CINEMA FAMILY
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2581
+#EXTINF:-1,LO-DE: SKY CINEMA HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2589
+#EXTINF:-1,LO-DE: SKY CINEMA HITS HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2578
+#EXTINF:-1,LO-DE: SKY CINEMA HITS
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2579
+#EXTINF:-1,LO-DE: SKY CINEMA NOSTALGIE
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2576
+#EXTINF:-1,LO-DE: SKY KRIMI
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2593
+#EXTINF:-1,LO-DE: SKY SPORT NEWS HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2633
+#EXTINF:-1,LO-DE: SKY SPORT NEWS SD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2632
+#EXTINF:-1,LO-DE: SKY SPORT 1 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2629
+#EXTINF:-1,LO-DE: SKY SPORT 1
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2630
+#EXTINF:-1,LO-DE: SKY SPORT 2 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2627
+#EXTINF:-1,LO-DE: SKY SPORT 2
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2628
+#EXTINF:-1,LO-DE: SKY SPORT 3 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2626
+#EXTINF:-1,LO-DE: SKY SPORT 3 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2625
+#EXTINF:-1,LO-DE: SKY SPORT 4 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2624
+#EXTINF:-1,LO-DE: SKY SPORT 4 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2623
+#EXTINF:-1,LO-DE: SKY SPORT 5
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2619
+#EXTINF:-1,LO-DE: SKY SPORT 5 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2622
+#EXTINF:-1,LO-DE: SKY SPORT 5 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2621
+#EXTINF:-1,LO-DE: SKY SPORT 6 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2620
+#EXTINF:-1,LO-DE: SKY SPORT 6 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2618
+#EXTINF:-1,LO-DE: SKY SPORT 7 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2617
+#EXTINF:-1,LO-DE: SKY SPORT 7 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2616
+#EXTINF:-1,LO-DE: SKY SPORT 8 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2615
+#EXTINF:-1,LO-DE: SKY SPORT 9 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2614
+#EXTINF:-1,LO-DE: SKY SPORT 10 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2613
+#EXTINF:-1,LO-DE: SKY SPORT 11 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2611
+#EXTINF:-1,LO-DE: SKY SPORT 11 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2612
+#EXTINF:-1,LO-DE: SKY SPORT AUSTRIA
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2631
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 1
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2610
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 1 HD
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2609
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 2 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2608
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 2 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2607
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 3 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2606
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 3 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2605
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 4 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2604
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 4 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2603
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 5 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2602
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 5 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2601
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 6 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2600
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 6 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2599
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 7 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2598
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 8 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2597
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 9 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2596
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 10 ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2595
+#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 10 HD ( Match time )
+http://higshare.higiptv.net:25461/loft366/daffadaqfd/2594
